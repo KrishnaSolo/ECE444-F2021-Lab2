@@ -15,6 +15,9 @@ Krishna's ECE444 Lab2
 #### Hello World + Bootstrap
 <img width="737" alt="Screen Shot 2021-09-22 at 4 10 47 PM" src="https://user-images.githubusercontent.com/39069859/134433326-97d1a047-62aa-4318-adf0-0f99ad6a2af6.png">
 
+#### Related Commit(s)
+[271f57b](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/271f57b3bf19da970052a5996c693781eaf2bd79)
+
 ## Activity 4
 #### 1
 <img width="858" alt="Screen Shot 2021-09-22 at 6 28 18 PM" src="https://user-images.githubusercontent.com/39069859/134433360-93d487b2-c902-49de-bdcb-167f8159d87d.png">
@@ -27,3 +30,7 @@ Krishna's ECE444 Lab2
 
 #### 4
 <img width="858" alt="Screen Shot 2021-09-22 at 6 44 27 PM" src="https://user-images.githubusercontent.com/39069859/134433416-51f6f64f-c2d2-4def-bfbc-58c223c2f9c7.png">
+
+#### Related Commit(s)
+PT1 - [92b1bde](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/92b1bdea4b77fc9d7134db9f68d418b9ed211b75)
+PT2 - [ce9c59a](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/ce9c59a76ada71acb7369a709ec4b023502b708b)
