@@ -5,7 +5,7 @@ Krishna's ECE444 Lab2
 
 ## Activity 1
 #### Virtualenv and Flask Installation
-<img width="456" alt="Screen Shot 2021-09-15 at 11 20 27 AM" src="https://user-images.githubusercontent.com/39069859/134432977-46fee88d-83a9-454c-bfe0-a670db873ab2.png">
+<img width="585" alt="Screen Shot 2021-09-21 at 11 46 40 PM" src="https://user-images.githubusercontent.com/39069859/134831931-8eb28f21-0d4a-4f51-b1f0-2c3ae6cef529.png">
 
 ## Activity 2
 #### Hello World
@@ -34,3 +34,4 @@ Krishna's ECE444 Lab2
 #### Related Commit(s)
 PT1 - [92b1bde](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/92b1bdea4b77fc9d7134db9f68d418b9ed211b75)
 PT2 - [ce9c59a](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/ce9c59a76ada71acb7369a709ec4b023502b708b)
+PT2 Fix - [9fc98d3](https://github.com/KrishnaSolo/ECE444-F2021-Lab2/commit/9fc98d384c5dc79ff0b503ebb41bd59f5a5ddc5f)
